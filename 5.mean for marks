@@ -1,0 +1,3 @@
+marks <- c(70,89,98,76,89)
+result <- mean(marks)
+print(result)
